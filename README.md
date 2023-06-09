@@ -5,25 +5,25 @@
 ## Linked List
  
  <p align="center">
-    <img width="470" height="300" src="assets\readme_files\singly-linked-list-traversing.gif">
+    <img width="600" height="300" src="assets\readme_files\singly-linked-list-traversing.gif">
  </p>
 
 ## Doubly Linked List
  
  <p align="center">
-    <img width="470" height="300" src="assets\readme_files\doubly-linked-list-reverse-traverse.gif">
+    <img width="600" height="300" src="assets\readme_files\doubly-linked-list-reverse-traverse.gif">
  </p>
 
 ## Queue
  
  <p align="center">
-    <img width="470" height="300" src="assets\readme_files\queuegif.gif">
+    <img width="700" height="300" src="assets\readme_files\queuegif.gif">
  </p>
 
 ## Stack
  
  <p align="center">
-    <img width="470" height="300" src="assets\readme_files\1_tQ9Y11OdaMnhXwbfCF-edA.gif">
+    <img width="400" height="400" src="assets\readme_files\1_tQ9Y11OdaMnhXwbfCF-edA.gif">
  </p>
 
 ## Hash Table
