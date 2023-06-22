@@ -5,7 +5,7 @@
 ## Linked List
  
  <p align="center">
-    <img width="600" height="300" src="assets\readme_files\singly-linked-list-traversing.gif">
+    <img width="750" height="300" src="assets\readme_files\singly-linked-list-traversing.gif">
  </p>
 
 ## Doubly Linked List
@@ -17,7 +17,7 @@
 ## Queue
  
  <p align="center">
-    <img width="700" height="300" src="assets\readme_files\queuegif.gif">
+    <img width="750" height="300" src="assets\readme_files\queuegif.gif">
  </p>
 
 ## Stack
@@ -29,11 +29,11 @@
 ## Hash Table
  
  <p align="center">
-    <img width="470" height="300" src="assets\readme_files\hash-table-vs-stl-map-0-1640100783.gif">
+    <img width="570" height="400" src="assets\readme_files\hash-table-vs-stl-map-0-1640100783.gif">
  </p>
 
 ## Binary Search Tree
  
  <p align="center">
-    <img width="470" height="300" src="assets\readme_files\binary-search-tree-sorted-array-animation.gif">
+    <img width="570" height="400" src="assets\readme_files\binary-search-tree-sorted-array-animation.gif">
  </p>
